@@ -1,1 +1,2 @@
 this is first code on my_sec_bnh
+this is second code on my_sec_bnh
